@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  "@ioa/ormv": {
+  "@chewbank/ioa-ormv": {
     "host": "localhost",
     "port": 5532,
     "database": "test",
