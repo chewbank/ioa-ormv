@@ -1,15 +1,16 @@
 {
-   "name": "@ioa/ormv",
+   "name": "@chewbank/ioa-ormv",
    "version": "9.8.11",
    "description": "ormv.js库数据库模型封装",
    "dependencies": {
-      "ormv": "^3.0.4"
+      "@chewbank/consoln": "^1.0.3",
+      "@chewbank/ormv": "^3.2.7"
    },
    "files": [
       "lib"
    ],
    "devDependencies": {
-      "@ioa/config": "^9.5.0",
-      "ioa": "^9.8.6"
+      "@chewbank/ioa": "^10.0.4",
+      "@chewbank/ioa-config": "^10.0.0"
    }
 }
